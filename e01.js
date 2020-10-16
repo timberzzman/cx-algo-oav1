@@ -1,4 +1,4 @@
-function HowManyCamelCase(str) {
+function howManyCamelCase(str) {
     let result = 1
     for (let i = 0; i < str.length; i++)
     {
