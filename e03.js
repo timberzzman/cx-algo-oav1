@@ -10,8 +10,6 @@ function marsos(str) {
                 }
                 else if (str[i + j] != SOS[j]) {
                     result++
-                    i+= j
-                    break
                 }
             }
         }
